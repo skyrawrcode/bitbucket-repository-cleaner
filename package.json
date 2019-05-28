@@ -1,0 +1,20 @@
+{
+  "name": "bitbucket-repository-cleaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^11.13.2",
+    "axios": "^0.18.0",
+    "enquirer": "^2.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
